@@ -1,0 +1,17 @@
+{
+    "name": "asus/retowords",
+    "description": "Retowords",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Balta"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "App\\": "class/"
+    }
+}
+}
